@@ -1,0 +1,14 @@
+# Opera Browser
+ab-merchandise.opera-api.com
+
+# Games
+*.epicgames.com
+
+# Unknown
+*.overwolf.com
+client-update.akamai.steamstatic.com
+meteorclient.com
+cad.sadrp.net
+map.cozycovemc.com
+notifications.thetrackernetwork.com
+chat-api.medal.tv
