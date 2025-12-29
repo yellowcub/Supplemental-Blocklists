@@ -3,8 +3,10 @@ ab-merchandise.opera-api.com
 
 # Games
 *.epicgames.com
+*.gamepass.com
 
-# Unknown
+# Misc
+*.discord.com
 *.overwolf.com
 client-update.akamai.steamstatic.com
 meteorclient.com
@@ -12,3 +14,5 @@ cad.sadrp.net
 map.cozycovemc.com
 notifications.thetrackernetwork.com
 chat-api.medal.tv
+*minecraft*
+*skyecraft*
