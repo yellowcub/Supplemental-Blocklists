@@ -16,3 +16,4 @@ notifications.thetrackernetwork.com
 chat-api.medal.tv
 *minecraft*
 *skyecraft*
+client-update.fastly.steamstatic.com
